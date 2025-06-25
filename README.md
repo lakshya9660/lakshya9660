@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshya Pratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Lakshya Singh</h1>
 <h3 align="center">🌐 Full Stack Developer | Building End‑to‑End Solutions with Passion & Precision 💻 Transforming Ideas into Reliable Web and Mobile Apps</h3>
 
 - 🔭 I’m currently working on [Full Stack](https://github.com/lakshya9660)
